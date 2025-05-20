@@ -18,6 +18,7 @@ A basic front-end e-commerce web app where users can view products and add them 
 - JavaScript (Vanilla)
 
 📁 Project Structure
+
 ecommerce-website/
 │
 ├── index.html # Main HTML file
